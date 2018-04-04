@@ -107,6 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1372020552384382, guid: a00ca4c1889d0b04188dcfffef88e239, type: 2}
+  damageValue: 1
 --- !u!195 &195855189116302690
 NavMeshAgent:
   m_ObjectHideFlags: 1
